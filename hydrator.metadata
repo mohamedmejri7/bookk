@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/brettmbates/argocd-example-apps",
+  "drySha": "ffc866600c08a644126df76ae5d3dae8c17beade",
+  "author": "brettmbates <110314360+brettmbates@users.noreply.github.com>",
+  "date": "2025-12-01T12:46:29Z",
+  "subject": "Change replicaCount from 1 to 2"
+}
